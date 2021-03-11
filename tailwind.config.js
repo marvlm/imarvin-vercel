@@ -21,8 +21,8 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['Inter', ...defaultTheme.fontFamily.sans],
-        serif: ['Baloo'],
+        sans: ['Lato', ...defaultTheme.fontFamily.sans],
+        serif: ['Baloo', ...defaultTheme.fontFamily.serif],
         text: ['Lato'],
       },
       colors: {
