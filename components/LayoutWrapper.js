@@ -1,13 +1,16 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
 import Logo from '@/data/logo.svg'
+import DarkLogo from '@/data/logo-dark.svg'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
+import { useTheme } from 'next-themes'
 
 const LayoutWrapper = ({ children }) => {
+  const { theme, setTheme } = useTheme()
   return (
     <SectionContainer>
       <div className="flex flex-col justify-between h-screen">
@@ -15,9 +18,15 @@ const LayoutWrapper = ({ children }) => {
           <div>
             <Link href="/" aria-label="Tailwind CSS Blog">
               <div className="flex items-center justify-between">
-                <div className="mr-3 w-8/12">
-                  <Logo />
-                </div>
+                {theme === 'dark' ? (
+                  <div className="mr-3 w-8/12">
+                    <DarkLogo />
+                  </div>
+                ) : (
+                  <div className="r-3 w-8/12">
+                    <Logo />
+                  </div>
+                )}
                 {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden h-6 text-2xl font-semibold sm:block">
                     {siteMetadata.headerTitle}
