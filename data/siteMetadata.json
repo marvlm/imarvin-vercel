@@ -1,0 +1,18 @@
+{
+  "title": "Software Engineer y Agilista",
+  "author": "Marvin López",
+  "headerTitle": "",
+  "description": "Un blog sobre agilidad, scrum, desarrollo de software, equipos, tecnología e innovación.",
+  "language": "en-us",
+  "siteUrl": "https://imarvin-newblog-marvlm.vercel.app/",
+  "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "marvin@thebranch.work",
+  "github": "https://github.com/marvlm",
+  "twitter": "https://twitter.com/marvlm",
+  "facebook": "",
+  "youtube": "",
+  "linkedin": "https://www.linkedin.com/marvinlopez/",
+  "locale": "es-ES"
+}
