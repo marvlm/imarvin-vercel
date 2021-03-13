@@ -22,7 +22,7 @@ module.exports = {
       },
       fontFamily: {
         sans: ['Lato', ...defaultTheme.fontFamily.sans],
-        serif: ['Baloo', ...defaultTheme.fontFamily.serif],
+        serif: ['Baloo'],
         text: ['Lato'],
       },
       colors: {
