@@ -45,7 +45,7 @@ export default function Home({ posts }) {
                           {new Date(date).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
                         </time>
                         <img
-                          className="object-scale-down lg:w-11/12 md:object-contain"
+                          className="object-scale-down lg:w-11/12 md:object-contain rounded-md"
                           src={image}
                           alt={title}
                         ></img>
