@@ -53,9 +53,11 @@ export default function ListLayout({ posts, title }) {
                   <dl>
                     <dt className="sr-only">Published on</dt>
                     <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
-                      <time dateTime={date}>
-                        {new Date(date).toLocaleDateString(siteMetdata.locale, postDateTemplate)}
-                      </time>
+                      <span className="inline-block py-1 px-2 rounded-md bg-green-600 text-white text-xs font-bold tracking-widest mb-2">
+                        <time dateTime={date}>
+                          {new Date(date).toLocaleDateString(siteMetdata.locale, postDateTemplate)}
+                        </time>
+                      </span>
                       <img
                         className="object-scale-down lg:w-11/12 md:object-contain rounded-md"
                         src={image}

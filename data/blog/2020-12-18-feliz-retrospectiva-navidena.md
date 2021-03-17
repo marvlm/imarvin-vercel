@@ -1,5 +1,5 @@
 ---
-title: 'Te deseo una #FelizRetrospectivaNavideña y un próspero y mejor año #2021'
+title: 'Te deseo una #FelizRetroNavideña y un próspero y mejor año #2021'
 slug: feliz-retrospectiva-navidena
 date: '2020-12-18'
 date_updated: '2020-12-18'
