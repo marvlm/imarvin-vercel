@@ -7,6 +7,7 @@ import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
+import BuyMeAPizza from './BuyMeAPizza'
 import { useTheme } from 'next-themes'
 
 const LayoutWrapper = ({ children }) => {
@@ -50,6 +51,7 @@ const LayoutWrapper = ({ children }) => {
               ))}
             </div>
             <ThemeSwitch />
+            {/* <BuyMeAPizza /> */}
             <MobileNav />
           </div>
         </header>

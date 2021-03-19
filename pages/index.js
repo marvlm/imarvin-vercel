@@ -37,7 +37,7 @@ export default function Home({ posts }) {
           const { slug, date, title, summary, tags, image } = frontMatter
           return (
             <Link key={slug} to={slug}>
-              <div className="mx-auto flex px-5 md:flex-row flex-col items-center jobcard">
+              <div className="mx-auto flex md:flex-row flex-col items-center jobcard">
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-2 md:mb-0 items-center">
                   <figure className="visible">
                     <div className="">
@@ -54,11 +54,21 @@ export default function Home({ posts }) {
                         <span className="inline-block py-1 px-2 rounded-md bg-yellow-600 text-white  text-xs font-bold tracking-widest mb-2">
                           Más reciente
                         </span>
+                        <img
+                          className="object-scale-down lg:w-11/12 md:hidden rounded-md"
+                          src={image}
+                          alt={title}
+                        ></img>
                         <h2 className="font-serif text-2xl font-bold leading-8 tracking-tight sm:text-4xl mb-4 font-medium ">
                           <Link href={`/blog/${slug}`} className="text-gray-900 dark:text-gray-100">
                             {title}
                           </Link>
                         </h2>
+                        <div className="flex flex-wrap">
+                          {tags.map((tag) => (
+                            <Tag key={tag} text={tag} />
+                          ))}
+                        </div>
                         <p className="font-text prose text-gray-500 max-w-none dark:text-gray-400 pb-8">
                           {summary}
                         </p>
@@ -81,7 +91,7 @@ export default function Home({ posts }) {
                 </div>
                 <div className="lg:max-w-lg lg:w-full md:w-full w-5/6 sm:block">
                   <img
-                    className="object-cover object-center object-scale-down lg:w-11/12 md:object-contain rounded-md"
+                    className="object-cover object-center object-scale-down rounded-md hidden md:block lg:w-11/12 md:object-contain"
                     alt={title}
                     src={image}
                   />

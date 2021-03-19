@@ -82,6 +82,8 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
             rel="stylesheet"
           ></link>
+          {/* <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="imarvin" data-color="#0047bb" data-emoji=""  data-font="Comic" data-text="Invítame un café" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script> */}
+          {/* <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="imarvin" data-description="Support me on Buy me a coffee!" data-message="Gracias por visitar mi blog. Si consideras valioso lo que comparto puedes invitarme un café para animarme a seguir compartiendo mis experiencias y conocimientos." data-color="#E4002B" data-position="Right" data-x_margin="18" data-y_margin="18"></script> */}
         </Head>
         <body className="antialiased text-black bg-white dark:bg-gray-900 dark:text-white">
           <Main />
