@@ -12,8 +12,10 @@
   "email": "marvin@thebranch.work",
   "github": "https://github.com/marvlm",
   "twitter": "https://twitter.com/marvlm",
+  "twitter_user": "@marvlm",
   "facebook": "",
   "youtube": "",
   "linkedin": "https://www.linkedin.com/in/marvinlopez/",
-  "locale": "es-ES"
+  "locale": "es-ES",
+  "buy_me_a_pizza": "/static/images/buy-me-a-pizza.png"
 }

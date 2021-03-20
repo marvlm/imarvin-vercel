@@ -100,6 +100,7 @@ export default function Home({ posts }) {
             </Link>
           )
         })}
+
         {/* <div className="divide-y divide-gray-200 dark:divide-gray-700">
           <div className="pt-4 pb-4 space-y-2 md:space-y-5">
             <h1 className="text-xl font-serif font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
@@ -107,6 +108,7 @@ export default function Home({ posts }) {
             </h1>
           </div>
         </div> */}
+
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
           {!posts.length && 'No posts found.'}
           {posts.slice(1, MAX_DISPLAY).map((frontMatter) => {
@@ -182,6 +184,56 @@ export default function Home({ posts }) {
           </Link>
         </div>
       )}
+
+      <div className="min-w-screen mt-16 flex items-center justify-center px-5 py-5">
+        <div className="w-full mx-auto rounded-lg bg-gray-50 shadow-lg px-5 pt-5 pb-10 text-gray-800 dark:bg-gray-800">
+          <div className="w-full pt-1 pb-5">
+            <div className="overflow-hidden rounded-full w-20 h-20 -mt-16 mx-auto shadow-lg">
+              <img src={siteMetadata.image} alt=""></img>
+            </div>
+          </div>
+          <div className="w-full mb-10">
+            <div className="text-5xl text-blue-700 text-left leading-tight h-3 dark:text-blue-200">
+              “
+            </div>
+            <p className="text-sm text-gray-600 text-center px-5 dark:text-white">
+              Si decides hacer #Scrum porque piensas (alguien te vendió la #idea) que te va a ayudar
+              a "Gerenciar tu proyecto (#ProjectManagement)", te recomiendo que NO LO HAGAS, te vas
+              a decepcionar, el equipo de trabajo y la empresa se van a frustrar con los resultados
+              y terminarán diciendo "Scrum no sirve". #TrueStory
+            </p>
+            <div className="text-5xl text-blue-700 text-right leading-tight h-3 -mt-3 dark:text-blue-200">
+              ”
+            </div>
+          </div>
+          <div className="w-full">
+            <p className="font-serif text-lg text-blue-700 font-bold text-center dark:text-blue-100">
+              {siteMetadata.author}
+            </p>
+            <p className="text-xs text-gray-500 text-center dark:text-blue-200">
+              {siteMetadata.twitter_user}
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="flex items-end justify-end fixed bottom-0 right-0 mb-4 mr-4 z-10">
+        <div>
+          <a
+            title="Buy me a beer"
+            href="https://www.buymeacoffee.com/imarvin"
+            rel="noreferrer noopener"
+            target="_blank"
+            className="block w-16 h-16 rounded-full transition-all bg-gray-200 shadow hover:shadow-lg transform hover:scale-110 hover:rotate-12"
+          >
+            <img
+              className="object-cover object-center w-full h-full rounded-full"
+              alt="Ahora puedes invitarme a una pizza."
+              src={siteMetadata.buy_me_a_pizza}
+            />
+          </a>
+        </div>
+      </div>
     </>
   )
 }

@@ -8,7 +8,7 @@ const Tag = ({ text }) => {
         {text.split(' ').join('-')}
       </a> */}
       <a>
-        <div className="mr-3 text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-200 dark:bg-white text-blue-700 rounded-md hover:text-red-600">
+        <div className="mr-3 text-xs inline-flex items-center font-bold leading-sm uppercase px-3 py-1 bg-blue-100 dark:bg-white text-blue-700 rounded-md hover:text-red-600">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="16"
