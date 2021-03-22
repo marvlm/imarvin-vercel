@@ -139,5 +139,3 @@ Para hacer visible esta planificación, puedes crear un GIST Board, promoviendo 
 Si lo analizamos detenidamente, GIST no parece ser una idea tan radical, más bien es la suma de varias ideas y métodos que ya hemos venido utilizando pero ordenada de una forma que permita que la planificación deje de ser algo que sigamos haciendo de una forma tradicional, para que podamos realizarla de una manera más ágil, promoviendo el cambio en todos los niveles incluso donde se toman las decisiones principales de la operación.
 
 _¿Qué te parece este framework para planificar de forma ágil en todos los niveles? ¿Te gustaría experimentar con él o continuarás creando roadmaps difíciles de seguir y actualizar?_
-
-    i'marv.in

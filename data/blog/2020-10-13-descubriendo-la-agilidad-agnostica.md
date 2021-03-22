@@ -39,4 +39,3 @@ las slides:
 
 y como resumen, lo que concluí y compartí como #takeaway en el formato de los valores del Manifiesto por el desarrollo ágil de software:
 ![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/cd0euxp/2020/10/image.png)
-i'marv.in

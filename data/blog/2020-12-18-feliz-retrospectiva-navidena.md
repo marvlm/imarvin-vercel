@@ -32,7 +32,7 @@ The Christmas Retrospective has three components, based on Christmas Past, Chris
 ![](https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png)Francesco AttanasioMedium
 
 ![](https://miro.medium.com/max/639/1*TRBWP-iLGhBTCl1IoS3LVQ.png)
-](https://medium.com/@leanscrummaster/christmas-retrospective-926a85dd7f9#:~:text&#x3D;The%20Christmas%20Retrospective%20has%20three%20components%2C%20based%20on%20Christmas%20Past,project%20from%20its%20kick%2Doff.)
+![](https://leanscrummaster.medium.com/christmas-retrospective-926a85dd7f9)
 Decidí utilizar el primero, "**The Christmas Sprint Retrospective**", ya que además de contar con una explicación detallada de la dinámica, tiene el plus de que el autor te provee un tablero creado en [metroretro.io](https://metroretro.io/), una de las herramientas que más utilizo para facilitar las retrospectivas y que además podía copiarse como plantilla.
 
 La dinámica fue creada originalmente por [Laurent Fite](https://medium.com/@laurentfite).
@@ -117,5 +117,3 @@ Y así cerramos nuestra última retrospectiva del año, con compromisos de mejor
 Espero que te pueda servir esta guía y que puedas aprovechar el momento en el que estamos para dar un giro a tu proceso de mejora continua y por qué no, inyectar algo de positivismo y divertirse en la última retrospectiva del año.
 
 ... Y no podía terminar este artículo sin desearte una muy Feliz Navidad y un próspero y mejor año 2021.
-
-    i'marv.in
