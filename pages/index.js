@@ -197,10 +197,11 @@ export default function Home({ posts }) {
               “
             </div>
             <p className="text-sm text-gray-600 text-center px-5 dark:text-white">
-              Si decides hacer #Scrum porque piensas (alguien te vendió la #idea) que te va a ayudar
-              a "Gerenciar tu proyecto (#ProjectManagement)", te recomiendo que NO LO HAGAS, te vas
-              a decepcionar, el equipo de trabajo y la empresa se van a frustrar con los resultados
-              y terminarán diciendo "Scrum no sirve". #TrueStory
+              Si decides hacer #Scrum porque piensas o alguien te vendió la #idea de que te va a
+              ayudar a "Gerenciar tu proyecto", te recomiendo que{' '}
+              <span className="font-serif">NO LO HAGAS</span>, te vas a decepcionar, el equipo de
+              trabajo y la empresa se van a frustrar con los resultados y terminarán diciendo "Scrum
+              no sirve".
             </p>
             <div className="text-5xl text-blue-700 text-right leading-tight h-3 -mt-3 dark:text-blue-200">
               ”
