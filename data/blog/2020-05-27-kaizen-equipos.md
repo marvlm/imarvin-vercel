@@ -88,5 +88,3 @@ Otras formas como se me ocurrió aplicar el Kaizen Box pero no cumplían lo que 
 Espero que esta forma de gestionar el Kaizen pueda servirte como me ha servido a mí, y si aplicas la técnica y quisieras darme algún feedback o comentarme tu experiencia, estaré inmensamente agradecido.
 
 ## Happy Kaizen!
-
-    i'marv.in

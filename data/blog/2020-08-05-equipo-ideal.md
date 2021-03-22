@@ -82,5 +82,3 @@ Un modelo que muestra los principales valores del equipo ideal, lo podemos encon
 _Como bien lo dice el título de este artículo y se describe a lo largo de él, esta es mi reflexión sobre lo que considero como el equipo ideal, un ideal al menos para mí. Un equipo del que a mi personalmente me gustaría formar parte. _
 
 _Un equipo en el que he estado muy cerca de pertenecer, digo muy cerca porque en esos casos, por temas en la organización, ya sea falta de visión, de una cultura que promueva la confianza o aspectos como jerarquías muy marcadas, etc. no era posible conseguirlo, aunque las personas tuvieran todo el potencial, el compromiso, el talento y las ganas de convertirse en ese **Equipo ideal**._
-
-    i'marv.in

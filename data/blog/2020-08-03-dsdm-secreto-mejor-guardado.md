@@ -114,5 +114,3 @@ Hace unos años tuve la oportunidad de trabajar en [https://www.controlrisks.com
 A pesar de contar con una estructura bastante tradicional a nivel de management, el mindset colaborativo y el enfoque a obtener resultados en conjunto, el negocio y el equipo de desarrollo se respiraba en todos los rincones de la organización, además de que la cultura colaborativa era un factor muy importante ya que los proyectos se desarrollaban en equipos distribuidos, con personas localizadas en Panamá (dónde estaba yo y parte del equipo de desarrollo), Singapur (el resto del equipo de desarrollo) e Inglaterra (dónde estaba negocio y la gestión de los proyectos).
 
 Puedo decir que la experiencia fue bastante interesante y enriquecedora y que, dado que DSDM había sido adoptado desde los niveles más altos de la organización, la cultura creada por la aplicación de los principios y valores de la agilidad y los principios de DSDM permeaba a los equipos de desarrollo y a los productos desarrollados.
-
-    i'marv.in

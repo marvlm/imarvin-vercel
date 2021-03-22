@@ -167,5 +167,3 @@ Redis le brinda una flexibilidad mucho mayor con respecto a los objetos que pued
 Espero que una vez tengas tus objetivos claros, y con la información que has encontrado en este artículo, puedas decidir cuál sistema de caching es el más adecuado para tu aplicación.
 
 **_!Feliz Caching!_**
-
-    i'marv.in

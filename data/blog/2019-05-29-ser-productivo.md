@@ -49,5 +49,3 @@ Estudiando un poco sobre el tema de priorización en el curso [Pasos a seguir pa
 
 ![No hay texto alternativo para esta imagen](https://media-exp1.licdn.com/dms/image/C4E12AQFZe7xSTgAwpg/article-inline_image-shrink_1000_1488/0?e=1596067200&v=beta&t=HhcTYpHDqPlF29IOmeooWCNHRYyE1UYjRjhI84fMXm4)
 Y tú eres productiv@? Que técnicas de productividad conoces y utilizas?
-
-    i'marv.in

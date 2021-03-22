@@ -197,5 +197,3 @@ A continuación, te dejamos otras páginas de referencia donde podrás ampliar t
 - [https://dev.to/azure/los-5-lenguajes-de-programacion-mas-importantes-para-aprender-en-2020-3op5](https://dev.to/azure/los-5-lenguajes-de-programacion-mas-importantes-para-aprender-en-2020-3op5)
 - [https://codigofacilito.com/articulos/lenguajes-2020](https://codigofacilito.com/articulos/lenguajes-2020)
 - [https://paraprogramadores.pro/lenguajes-programacion/](https://paraprogramadores.pro/lenguajes-programacion/)
-
-  i'marv.in

@@ -82,5 +82,3 @@ Para facilitar la discusión, realizamos un Lean Coffee apoyados en la herramien
 
 ![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/cd0euxp/2020/12/COP-ScrumGuide2020Upgrade.png)Whiteboard en Mural
 Si ya te leíste la nueva guía y encuentras algo aquí con lo que discrepas o crees que nos hizo falta discutir te invito a que me dejes un comentario al final de este post y así continuamos la discusión alrededor de este tema tan popular e importante.
-
-    i'marv.in

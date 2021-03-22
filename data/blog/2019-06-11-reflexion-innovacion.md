@@ -55,5 +55,3 @@ Les comparto una fábula para reflexionar un poco más sobre éste tema:
 **¿Cuál elegirías tú?** Yo quiero pensar que elegiría la cuarta opción, pero pareciera que  la mayoría estamos (me incluyo) en las tres anteriores: esperando a que vuelva el viento, dejándonos llevar por la corriente o echándonos a llorar.
 
 \***\*Hay que remar. Hay que hacer algo. Hay que innovar.\*\***
-
-    i'marv.in

@@ -89,5 +89,3 @@ Comenté al principio del artículo que "_Estoy descubriendo formas mejores de a
 ¿Ahora que conoces el modelo Dreyfus de adquisición de habilidades, en qué etapa consideras que te encuentras, en tu profesión, en tu área de especialización, en el deporte o actividad que practicas? ¿Tienes algún comentario adicional?
 
 Puedes dejar tus respuestas en el cuadro de comentarios a continuación.
-
-    i'marv.in

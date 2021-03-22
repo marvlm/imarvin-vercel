@@ -148,6 +148,4 @@ Y así, completo el **día 15** del reto [#30díasdeblog](/tag/30diasdeblog/)**[
 
 Un abrazo!
 
-    i'marv.in
-
 _P. D.: Este artículo tiene 1678 palabras._

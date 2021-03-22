@@ -73,6 +73,4 @@ Y así, completo el reto [#30díasdeblog](/tag/30diasdeblog/)**[👨‍💻](htt
 
 Un abrazo!
 
-    i'marv.in
-
 _P. D.: Este artículo tiene 1232 palabras._

@@ -77,5 +77,3 @@ A pesar de que las ideas que presenta son interesantes no encontré nada nuevo e
 Así que si les pasa como a mí y de sorpresa escuchan el término Multi-speed IT, ya sabrán de que se trata.
 
 Un abrazo!
-
-    i'marv.in

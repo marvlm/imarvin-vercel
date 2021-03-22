@@ -44,5 +44,3 @@ Podemos entender que cuando se mencionan los valores en la guía de Scrum es que
 Concluyendo, el hacer uso de Scrum va más allá de solo hacer un planning, las daily y demás ceremonias, de tener los 3 roles y de entregar un incremento al final de cada sprint, un verdadero equipo de Scrum abraza los valores de Scrum y empieza a vivirlos, practicarlos y basar su propio comportamiento como equipo, en ellos, creando su propia CULTURA (que puede ser muy diferente incluso entre equipos de la misma organización), pero ojo, esta cultura no se crea de la noche a la mañana, le puede tomar meses, incluso años a un equipo definir su propia cultura y eso sin considerar los cambios internos que puede sufrir (por ejemplo, personas que entran y salen del equipo).
 
 Si estás trabajando con un equipo y están utilizando o quieren utilizar Scrum y cumplir los objetivos que se trazan, te recomiendo evaluar, ¿Cómo está la cultura del equipo?, o preguntarte, ¿en realidad nos hemos preocupado por nuestra cultura de equipo? y si la respuesta en No, éste es el mejor momento para empezar a preocuparse y trabajar en ella.
-
-    i'marv.in

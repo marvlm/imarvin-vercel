@@ -68,5 +68,3 @@ Para introducir la retrospectiva y generar un ambiente que lleve al equipo al co
 Espero que puedas experimentar también con esta dinámica o inventes la tuya propia y también puedas compartirlo conmigo. Debajo puedes dejar tus comentarios y experiencias si deseas, para mí será muy valioso.
 
 ¡Un abrazo!
-
-    i'marv.in

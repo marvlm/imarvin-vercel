@@ -142,5 +142,3 @@ XP es un marco de desarrollo que persigue el feedback continuo, la excelencia t�
 - _Prácticas que nos ayudan a conseguir una cultura de equipo y una buena organización a través de la excelencia técnica y la creación de software de valor._
 
 Cuando creamos una cultura de equipo basándonos en los principios y valores de XP podremos crear un entorno competitivo pero a la vez motivacional, donde cada miembro aprecia el trabajo de cada uno de sus compañeros, entregan trabajo valioso de forma constante y rápidamente porque pueden distinguir las tareas relevantes de las que no son necesarias. Reaccionan rápidamente al feedback dándose cuenta de que es una crítica razonable que tiene el objetivo de hacer un mejor producto, trabajo y equipo, lo que promueve el espíritu kaizen, la mejora continua.
-
-    i'marv.in

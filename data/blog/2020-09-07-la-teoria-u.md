@@ -92,5 +92,3 @@ Como última referencia, les dejo una presentación sobre la Teoría U del propi
 Y tú, _¿Conocías la Teoría U? ¿Te sientes identificado con el proceso que intenta resolver? Puedes dejarme tus comentarios o respuestas a estas preguntas debajo del artículo._
 
 Un abrazo!
-
-    i'marv.in

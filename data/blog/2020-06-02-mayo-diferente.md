@@ -82,6 +82,4 @@ Y así, completo el **día 2** de mi reto [#30díasdeblog](/tag/30diasdeblog/) �
 
 Un abrazo!
 
-    i'marv.in
-
 _P. D.: Este artículo tiene 921 palabras._

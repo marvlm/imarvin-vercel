@@ -47,12 +47,10 @@ En el ejemplo que comenté antes, Dev y Ops se necesitaban para completar el tra
 
 Debemos derribar el muro de la confusión, eliminando los silos y las separaciones entre departamentos. Pertenecemos a la misma empresa, si la empresa cae, también nosotros.
 ![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/cd0euxp/2020/10/business-boat.png)
-Debemos enfocar nuestros esfuerzos en lograr "_lo que la empresa y nuestros clientes necesitan_", que trabajemos juntos para entregar software estable y de calidad de manera continua, no lo que yo como Negocio, Desarrollo, Operaciones o ****\_\_\_**** (llena el espacio con el nombre de tu área) necesito cumplir para quedar bien y verme mejor que los demás.
+Debemos enfocar nuestros esfuerzos en lograr "_lo que la empresa y nuestros clientes necesitan_", que trabajemos juntos para entregar software estable y de calidad de manera continua, no lo que yo como Negocio, Desarrollo, Operaciones o \***\*\_\_\_\*\*** (llena el espacio con el nombre de tu área) necesito cumplir para quedar bien y verme mejor que los demás.
 
 Si puedes, la próxima vez, que alguien te diga que está haciendo Agile o DevOps pregúntale _¿Cómo derribaste el muro de la confusión?_, a ver que te responde y si no sabe qué es, le puedes invitar a leer este artículo, si lo haces, te agradecería si me dejas tus comentarios al respecto en la sección abajo.
 
 Espero que hayas disfrutado el artículo, gracias por leerme.
 
 **¡Un abrazo!**
-
-    i'marv.in

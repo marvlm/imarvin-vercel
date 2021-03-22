@@ -132,6 +132,4 @@ Y así, completo el **día 25** del reto [#30díasdeblog](/tag/30diasdeblog/)**[
 
 Un abrazo!
 
-    i'marv.in
-
 _P. D.: Este artículo tiene 1415 palabras._

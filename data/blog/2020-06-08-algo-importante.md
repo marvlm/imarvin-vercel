@@ -63,8 +63,6 @@ Y así, completo el **día 8** de mi reto [#30díasdeblog](/tag/30diasdeblog/), 
 
 Un abrazo!
 
-    i'marv.in
-
 _P.D. [1]: Este artículo tiene escrito 19 veces la palabra importante._
 
 _P.D. [2]: Este artículo tiene 831 palabras._

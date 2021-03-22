@@ -64,5 +64,3 @@ A continuación listo las herramientas de la misma forma en que las presenté du
 Espero que las herramientas sean de utilidad y que puedan experimentar con ellas. Si les queda alguna duda o desean compartir otras herramientas para enriquecer aún más ésta conversación les agradezco si lo pueden hacer en los comentarios.
 
 Hasta la próxima!
-
-    i'marv.in

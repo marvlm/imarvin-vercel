@@ -78,5 +78,3 @@ De la guía de Scrum:
 Para terminar les dejo todo esto en forma de una infografía.
 
 El Daily Scrum constituye una reunión clave de inspección y adaptación, ayuda a mejorar la comunicación, elimina la necesidad de mantener otras reuniones, permite identificar y eliminar impedimentos relativos al desarrollo, se promueve la toma de decisiones rápida, y permite al Equipo de Desarrollo mejorar su nivel de conocimiento general del producto que están desarrollando.
-
-    i'marv.in

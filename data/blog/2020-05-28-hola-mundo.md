@@ -35,5 +35,4 @@ Si te surge alguna duda sobre lo que escribo o te gustaría que conversáramos m
 Una vez más, te doy la bienvenida y las gracias por tomarte el tiempo de leerme.
 
 Un abrazo!
-![](https://digitalpress.fra1.cdn.digitaloceanspaces.com/cd0euxp/2020/05/imarvin_dark.png)www.imarv.in
-i'marv.in
+![www.imarv.in](https://digitalpress.fra1.cdn.digitaloceanspaces.com/cd0euxp/2020/05/imarvin_dark.png)

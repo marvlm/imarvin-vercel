@@ -117,5 +117,3 @@ Te dejamos algunas páginas de referencia donde podrás profundizar más sobre e
 - [https://rockcontent.com/es/blog/que-es-un-lenguaje-de-programacion/](https://rockcontent.com/es/blog/que-es-un-lenguaje-de-programacion/)
 - [https://concepto.de/lenguaje-de-programacion/](https://concepto.de/lenguaje-de-programacion/)
 - [https://www.ecured.cu/Lenguaje*de_programación*(informática)](<https://www.ecured.cu/Lenguaje_de_programaci%C3%B3n_(inform%C3%A1tica)>)
-
-  i'marv.in

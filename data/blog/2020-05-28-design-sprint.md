@@ -127,5 +127,3 @@ Hemos decidido extender la fase de validación y pruebas debido al tiempo en el 
 Sin embargo, con lo que pudimos lograr en una semana, considerando que no estamos trabajando en una oficina todos en el mismo lugar, ni siquiera tenemos el mismo horario, que podemos dedicar sólo ciertas horas del día a este proceso y además de que cada uno tiene sus propias actividades diarias y responsabilidades que atender, el resultado ha sido más que satisfactorio.
 
 Nuestro DESIGN SPRINT ha sido todo un éxito. Nos adecuamos a nuestra realidad, alineamos el desafío como equipo, creamos una solución a un problema real en cuatro días y lo mejor de todo…\***\* ¡lo pasamos bien!\*\***
-
-    i'marv.in

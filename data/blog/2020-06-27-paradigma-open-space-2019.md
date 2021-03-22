@@ -114,6 +114,4 @@ Y así, completo el **día 27** del reto [#30díasdeblog](/tag/30diasdeblog/).
 
 Un abrazo!
 
-    i'marv.in
-
 _P. D.: Este artículo tiene 1145 palabras._

@@ -59,5 +59,3 @@ El Manifiesto de desarrollo de software Ágil, con su énfasis en "individuos e 
 En estos tiempos todavía es difícil convencer a empresarios o clientes de que el software de baja calidad cuesta dinero a largo plazo ya que lo que normalmente les mueve es el ahorro a corto plazo. Aunque siendo sincero, si las empresas se concentraran sólo en la "artesanía" y calidad del software, su enfoque estaría del mismo modo en el lugar equivocado. Como en todo, es necesario un balance, el código que creamos debería cumplir un mínimo de estándares de calidad, pero a su vez considerando las necesidades del negocio y lo que realmente necesitan los usuarios.
 
 _¿Qué opinas tú de este manifiesto? ¿Consideras el desarrollo de software como un trabajo artesanal? ¿Se considera la importancia de la calidad del software en tu organización?_ Agradezco tus respuestas a estas preguntas y comentarios.
-
-    i'marv.in

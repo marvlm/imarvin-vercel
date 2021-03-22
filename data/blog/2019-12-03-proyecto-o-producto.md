@@ -41,5 +41,3 @@ No es que la gestión de proyectos tradicional no funcione o que la gestión de 
 Está demostrado actualmente (ver el éxito de las startups hoy en día y el modelo que la mayoría aplica) que las formas tradicionales de gestión no están alineadas al mundo cambiante que existe y no se mueven a la misma velocidad que exige el mercado en esta era de transformación digital (que de digital solo tiene el nombre porque para mi concepto va de personas, cultura y mejora de procesos, apoyándose en lo digital cuando todo lo anterior está bien formado – pero es tema para otro debate).
 
 Hoy en día existe una moda de que todos son Ágiles (de las redes sociales para afuera). Sin embargo, cuando los conoces realmente siguen pensando en proyectos, no se considera a las personas y lo importante que son para que la organización realmente funcione (los famosos recursos que me proveen las consultoras), yo creo que, si quieren ser ágiles de verdad, no deben seguir empeñados en crear proyectos, deberían proponerse cambiar su cultura, pensar en las personas, en cómo desarrollarlas y en productos que vayan evolucionando conforme pasa el tiempo.
-
-    i'marv.in

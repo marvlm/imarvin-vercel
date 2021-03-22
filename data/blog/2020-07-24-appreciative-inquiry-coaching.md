@@ -105,5 +105,3 @@ Puedes encontrar más información sobre este enfoque en su página web oficial,
 > [Principles of Appreciative Inquiry](https://www.centerforappreciativeinquiry.net/more-on-ai/principles-of-appreciative-inquiry/)
 
 Adicional, les comparto un pequeño video explicativo (en inglés) sobre Appreciative Inquiry.
-
-    i'marv.in

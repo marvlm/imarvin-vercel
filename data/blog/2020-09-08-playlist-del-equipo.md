@@ -76,5 +76,3 @@ Les dejo aquí un par de playlist resultado de esta actividad:
 _¿Qué te ha parecido esta actividad? ¿La aplicarías en tu equipo de trabajo?_
 
 Un abrazo!
-
-    i'marv.in

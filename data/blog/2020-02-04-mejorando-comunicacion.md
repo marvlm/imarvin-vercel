@@ -56,5 +56,3 @@ Regularmente en las retrospectivas que facilito, me gusta promover la buena comu
 Aquí les dejo un artículo al respecto: [http://cuspideagil.blogspot.com/2015/04/primera-directiva-de-las-retrospectivas.html](http://cuspideagil.blogspot.com/2015/04/primera-directiva-de-las-retrospectivas.html)
 
 Estas son algunas de las actividades que he podido ejecutar para fomentar una buena comunicación en los equipos de trabajo con los que he tenido la oportunidad de trabajar. Hay que recordar que siempre es recomendable repasar como está la comunicación en nuestro equipo y hacer ejercicios para que mantengamos nuestra comunicación sana e incluso logremos mejorarla, y por el contrario, no esperar a tener que curar la enfermedad de la mala comunicación.
-
-    i'marv.in

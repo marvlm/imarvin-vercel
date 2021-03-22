@@ -62,5 +62,3 @@ Puedes consultar la guía en el siguiente [enlace](https://docs.google.com/docum
 Scream se ofrece de forma gratuita: solo cuesta la cordura y la tranquilidad de quienes lo aplican. Los roles, los eventos, los artefactos y las reglas de Scream varían de una organización a otra y la mayoría solo implementan partes de Scream; el resultado suele ser siempre Scream. Scream existe para preservar los sistemas y funciones existentes, así como un contenedor para otras disfunciones, locuras y problemas.
 
 ### Y tú, ¿haces Scream en tu organización?
-
-    i'marv.in

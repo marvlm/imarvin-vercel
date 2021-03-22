@@ -98,5 +98,3 @@ Asegúrate de que tus retrospectivas tengan un impacto. Asegúrate de que, como 
 Dirige las retrospectivas hacia un resultado que haga que el equipo crea en sus propias ideas de mejora, ya que esas ideas son las que cambiarán al equipo para siempre.
 
 Que no te pase como a Scrumito, que se quedó sin saber cómo hacer de la retrospectiva una sesión dónde todos aportan y donde el equipo encuentra las formas de mejorar su cultura, su proceso, comportamiento o el producto.
-
-    i'marv.in

@@ -67,5 +67,3 @@ Basándome en mis experiencias en equipos que lograron lo que yo llamaría intel
 > …_el éxito de estos equipos es que estaban formados por personas que realmente escuchaban lo que opinaban o decían sus compañeros y lo procesaban como si fuera su propio pensamiento._
 
 La inteligencia colectiva es una evaluación subjetiva de la información en el propio contexto del colectivo. Darse cuenta de que la inteligencia es principalmente un fenómeno colectivo ayuda a las personas a comprender el significado de la inteligencia colectiva y lo que significa cuando formamos parte de cualquier equipo u organización que está en un proceso de transformación y adaptación.
-
-    i'marv.in

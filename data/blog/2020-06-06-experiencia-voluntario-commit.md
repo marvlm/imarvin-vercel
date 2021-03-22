@@ -60,6 +60,4 @@ Y así, completo el **día 6** de mi reto [#30díasdeblog](/tag/30diasdeblog/).
 
 Un abrazo!
 
-    i'marv.in
-
 _P. D.: Este artículo tiene 946 palabras._

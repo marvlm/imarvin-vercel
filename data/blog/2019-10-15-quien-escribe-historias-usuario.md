@@ -26,5 +26,3 @@ Si bien es cierto puede existir alguien que escribe la primera versión de una h
 Este proceso de madurez se alcanza en la medida que se hacen las conversaciones al respecto, normalmente en una reunión, dónde se recomienda que estén todos los miembros del equipo, que comúnmente se llama refinamiento del backlog de producto (Backlog Refiement). Es en el refinamiento donde se aplican las técnicas como [SPIDR, Example Mapping, User Journey Map o cualquier otra](https://www.linkedin.com/pulse/scrum-masters-toolbox-marvin-l%C3%B3pez/), para ayudar al equipo a entender mejor de que va la historia de usuario, que es lo que realmente quiere y necesita el usuario y cuál es la mejor forma de abordarla y desarrollarla.
 
 Puedo concluir que las mejores historias de usuario con las que me he encontrado, que incluso se entregan en el tiempo estimado y con la calidad esperada, han sido las historias en las que todo el equipo de ágil se ha involucrado, ha planteado sus dudas, ideas y propuestas de solución antes de aceptarla en una iteración para ser desarrollada (cumpliendo el DoD).
-
-    i'marv.in
