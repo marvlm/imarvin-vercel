@@ -9,7 +9,7 @@ image: 'https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entrop
 summary: GIST es un framework para la planificación de productos basado en Lean Startup, Agile y Growth Marketing, entre otras técnicas.
 ---
 
-![gist-framework-banner](https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDF8fHJvYWRtYXB8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000 'rounded-md')
+![gist-framework-banner](https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwxMTc3M3wwfDF8c2VhcmNofDF8fHJvYWRtYXB8ZW58MHx8fA&ixlib=rb-1.2.1&q=80&w=2000)
 
 ## Los Roadmaps y la planificación tipo Waterfall
 

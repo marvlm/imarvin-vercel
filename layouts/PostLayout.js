@@ -25,9 +25,11 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                 <div>
                   <dt className="sr-only">Published on</dt>
                   <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
-                    <time dateTime={date}>
-                      {new Date(date).toLocaleDateString(siteMetdata.locale, postDateTemplate)}
-                    </time>
+                    <span className="inline-block py-1 px-2 rounded-md bg-green-600 text-white text-xs font-bold tracking-widest mb-2">
+                      <time dateTime={date}>
+                        {new Date(date).toLocaleDateString(siteMetdata.locale, postDateTemplate)}
+                      </time>
+                    </span>
                   </dd>
                 </div>
               </dl>
@@ -58,7 +60,9 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                     <dl className="text-sm font-medium leading-5 whitespace-nowrap">
                       <dt className="sr-only">Name</dt>
                       <dd className="font-serif text-xl text-gray-900 dark:text-gray-100">
-                        <a href="/about">{siteMetdata.author}</a>
+                        <a href="/about" className="hover:text-gray-400">
+                          {siteMetdata.author}
+                        </a>
                       </dd>
                       <dt className="sr-only">Twitter</dt>
                       <dd>
@@ -73,6 +77,7 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                   </li>
                 </ul>
               </dd>
+
               <div className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300">
                 <Link href={discussUrl(slug)} rel="nofollow">
                   {'Discuss on Twitter'}
@@ -80,7 +85,9 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                 {` • `}
                 <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
               </div>
+              <hr className="divide-y divide-gray-200 border-gray-200" />
             </div>
+
             <footer>
               <div className="text-sm font-medium leading-5 divide-gray-200 xl:divide-y dark:divide-gray-700 xl:col-start-1 xl:row-start-2">
                 {tags && (

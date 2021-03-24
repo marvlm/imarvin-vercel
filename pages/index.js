@@ -59,8 +59,11 @@ export default function Home({ posts }) {
                           src={image}
                           alt={title}
                         ></img>
-                        <h2 className="font-serif text-2xl font-bold leading-8 tracking-tight sm:text-4xl mb-4 font-medium ">
-                          <Link href={`/blog/${slug}`} className="text-gray-900 dark:text-gray-100">
+                        <h2 className="font-serif text-2xl font-bold leading-8 tracking-tight sm:text-4xl mb-4 font-medium">
+                          <Link
+                            href={`/blog/${slug}`}
+                            className="text-gray-900 dark:text-gray-100 hover:text-gray-400"
+                          >
                             {title}
                           </Link>
                         </h2>
@@ -141,7 +144,7 @@ export default function Home({ posts }) {
                           <h2 className="font-serif text-2xl font-bold leading-8 tracking-tight">
                             <Link
                               href={`/blog/${slug}`}
-                              className="text-gray-900 dark:text-gray-100"
+                              className="text-gray-900 dark:text-gray-100 hover:text-gray-400"
                             >
                               {title}
                             </Link>
